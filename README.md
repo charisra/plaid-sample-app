@@ -2,7 +2,7 @@
 
 Before you run, you need to install a CORS browser extension. I use [this one](https://chrome.google.com/webstore/detail/allow-control-allow-origi/nlfbmbojpeacfghkpbjhddihlkkiljbi?hl=en)
 
-### In your terminal:
+## In your terminal:
 
 1) cd into 'agentrisk/react'
 2) npm install (once)
