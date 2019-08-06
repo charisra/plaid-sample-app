@@ -7,7 +7,7 @@ Before you run, you need to install a CORS browser extension. I use [this one](h
 1) cd into 'agentrisk/react'
 2) npm install (once)
 3) npm start
-
+## On a separate terminal window:
 4) cd into 'agentrisk/node'
 5) npm install (once)
 6) Run the following (copy-paste the entire command at once): 
