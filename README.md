@@ -11,7 +11,7 @@ Before you run, you need to install a CORS browser extension. I use [this one](h
 4) cd into 'agentrisk/node'
 5) npm install (once)
 6) Run the following (copy-paste the entire command at once): 
-PLAID_CLIENT_ID='5d47e5ec00a2c1001370a526' PLAID_SECRET='5cac359ea74327011f60f36484232a' PLAID_PUBLIC_KEY='de7c25f6fd11530416184e89a06288' PLAID_ENV='sandbox' PLAID_PRODUCTS=auth node index.js
+PLAID_CLIENT_ID='yourAPIHere' PLAID_SECRET='yourSecretHere' PLAID_PUBLIC_KEY='yourPublicKeyHere' PLAID_ENV='sandbox' PLAID_PRODUCTS=auth node index.js
 
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
